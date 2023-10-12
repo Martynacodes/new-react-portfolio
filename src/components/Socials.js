@@ -14,12 +14,20 @@ const Socials = () => {
     >
       <ul className="flex gap-x-4">
         <li>
-          <a href="https://www.linkedin.com/in/martyna-codes/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/martyna-codes/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <ImLinkedin />
           </a>
         </li>
         <li>
-          <a href="https://github.com/Martynacodes" target="_blank">
+          <a
+            href="https://github.com/Martynacodes"
+            target="_blank"
+            rel="noreferrer"
+          >
             <ImGithub />
           </a>
         </li>
