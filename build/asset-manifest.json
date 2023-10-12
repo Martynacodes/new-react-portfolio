@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3dd4cbf.css",
+    "main.js": "/static/js/main.efc29610.js",
+    "static/media/ai app.png": "/static/media/ai app.5c3793f141f5ca38067c.png",
+    "static/media/ADMINAPP.png": "/static/media/ADMINAPP.063340e87aebfc2bfe0e.png",
+    "static/media/NomadDesk-logos_transparent.png": "/static/media/NomadDesk-logos_transparent.2a6cf550b52ae07ebee8.png",
+    "static/media/dogblack.jpg": "/static/media/dogblack.44dee4b456e480f0873e.jpg",
+    "static/media/ideas.jpg": "/static/media/ideas.26980bd1b31ff68b3db3.jpg",
+    "static/media/mail.jpg": "/static/media/mail.4ede87fa7f37f1dd1e80.jpg",
+    "index.html": "/index.html",
+    "main.d3dd4cbf.css.map": "/static/css/main.d3dd4cbf.css.map",
+    "main.efc29610.js.map": "/static/js/main.efc29610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3dd4cbf.css",
+    "static/js/main.efc29610.js"
+  ]
+}
