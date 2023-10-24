@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 // import images
 import AiApp from "../img/portfolio/ai app.png";
 import NomadDesk from "../img/portfolio/NomadDesk-logos_transparent.png";
-import adminproX from "../img/portfolio/ADMINAPP.png";
+import adminproX from "../img/portfolio/AdminProX.png";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { transition1 } from "../transitions";

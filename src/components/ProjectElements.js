@@ -6,7 +6,8 @@ export const ProjectsContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #bdaea157;
+  /* background: #bdaea157; */
+  background: #ffff366e;
   margin-top: 5rem;
 
   @media (max-width: 1000px) {
